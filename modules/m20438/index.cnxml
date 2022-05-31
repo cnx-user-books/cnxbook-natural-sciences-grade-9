@@ -1,0 +1,615 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Power</title>
+  <metadata>
+  <md:content-id>m20438</md:content-id><md:title>Power</md:title>
+  <md:abstract/>
+  <md:uuid>c3b16fa4-8c87-4741-80fc-d6dc96944afe</md:uuid>
+</metadata>
+
+<content>
+    <section id="id4264864">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id4264864">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4264889">
+      <title>Grade 9</title>
+      <para id="para-id4264889">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4266234">
+      <title>ENERGY, FORCES AND MACHINES</title>
+      <para id="para-id4266234">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4266935">
+      <title>Module 22</title>
+      <para id="para-id4266935">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4266914">
+      <title>POWER</title>
+      <para id="id4268110">Performance (effort/work) is important, but the SPEED at which it is performed is also important.</para>
+      <section id="id4268087">
+        <title>Activity:</title>
+        <para id="para-id4268087">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id4268482">
+        <title>Explaining the concept POWER and calculating it</title>
+        <para id="para-id4268482">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id4268883">
+        <title>[LO 2.3; LO 2.4]</title>
+        <para id="id4256997">
+          <emphasis effect="bold">POWER </emphasis>
+          <emphasis effect="bold">= </emphasis>
+          <emphasis effect="bold">WORK</emphasis>
+          <emphasis effect="bold"> / </emphasis>
+          <emphasis effect="bold">TIME</emphasis>
+        </para>
+        <para id="id4271507">We measure this in J/s, or Watt (W)</para>
+        <para id="id4271106">1J per second provides 1 Watt of power</para>
+        <list id="id4271902" list-type="bulleted">
+          <item>The term <emphasis effect="bold">Watt</emphasis> is derived from the name of James Watt, who was responsible for improvements to the steam engine.</item>
+        </list>
+        <list id="id4158190" list-type="bulleted">
+          <item>The electricity in your home is measured in kilowatt-hour <emphasis effect="bold">(kWh)</emphasis>.</item>
+          <item>One kilowatt-hour is the energy output of a 1 kW appliance in one hour.</item>
+          <item>The longer such an appliance is operated, the more energy is used. A 2 kW heater that is operated for three hours will therefore use 6 kW energy.</item>
+          <item>Complete: …… kW per hour x …… hour = 6 kW.</item>
+          <item>The cost of a kWh varies but comes to approximately R0,35 in the Western Cape.</item>
+        </list>
+      </section>
+      <section id="id4117640">
+        <title>Assignment: </title>
+        <para id="para-id4117640">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id4117460">
+        <title>Measure your own power capacity</title>
+        <list id="id4117466" list-type="bulleted">
+          <item>Identify a stairway in the school and measure the height of a step.</item>
+          <item>Multiply this by the number of steps.</item>
+          <item>Determine your weight.</item>
+          <item>Run up the stairs and take your time in seconds.</item>
+        </list>
+        <para id="id4270309">Complete the following table:</para>
+        <table id="id4303862" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Aspect</entry>
+                <entry>Measurement</entry>
+              </row>
+              <row>
+                <entry>Step height</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Mass</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Weight</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Work performed: F x s</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Time</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4284924">QUESTIONS</para>
+        <para id="id4284899">1. What was your power?</para>
+        <para id="id4284467"/>
+        <para id="id4284471"/>
+        <para id="id4283666">2. Explain the following:</para>
+        <para id="id4284020">a) Kilowatt</para>
+        <para id="id4285971"/>
+        <para id="id4285945">b) Kilowatt-hour</para>
+        <para id="id4282655"/>
+        <para id="id4286227">3. Find out what the power rating of the average car (your educator's car, for instance) is.</para>
+        <para id="id4286205"/>
+        <para id="id4286460">4. Would you be prepared to push your educator's car all the way home? Why not?</para>
+        <para id="id4279445"/>
+        <para id="id4279448"/>
+        <para id="id4280795">5. Why would it be easier for the car engine to do this, even though you might have enough time and help from your friends?</para>
+        <para id="id4322366"/>
+        <para id="id4281194"/>
+        <para id="id4286924">6. Calculate the cost of operating a 3 000 W heater for a month (July) for 4 hours per day at a tariff of R0,35 per kWh.</para>
+        <para id="id4288695"/>
+        <para id="id4195105"/>
+        <para id="id4195109"/>
+        <para id="id4287990"/>
+        <para id="id4288316"/>
+        <para id="id4288320">Assessment of the CALCULATION of POWER CAPACITY</para>
+        <para id="id4288342">Were you able to apply knowledge and do the calculations?</para>
+        <para id="id4287430">[LO 2.3; LO 2.4]</para>
+      </section>
+      <section id="id4172354">
+        <title>Activity:</title>
+        <para id="para-id4172354">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id4288928">
+        <title>Doing RESEARCH on power and performing relevant calculations</title>
+        <para id="para-id4288928">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id4289661">
+        <title>[LO 1.1; LO 1.2; LO 2.2; LO 2.4]</title>
+        <para id="id4289991">Find out what 1 kWh of electricity costs in your municipal area.</para>
+        <para id="id4290351"/>
+        <para id="id4290354">Suppose you use the following appliances during the day:</para>
+        <list id="id4290330" list-type="bulleted">
+          <item>Computer for 2 hours</item>
+          <item>Television for 3 hours</item>
+          <item>Lamp for 4 hours</item>
+          <item>Kettle for 15 minutes</item>
+          <item>Stove for 45 minutes</item>
+          <item>Hairdryer for 15 minutes</item>
+        </list>
+        <list id="id4234721" list-type="bulleted">
+          <item>Determine the average power of each of these items by reading the specifications given on the appliances. Complete the table.</item>
+        </list>
+        <table id="id4303746" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Electrical appliance</entry>
+                <entry>Power (kW)</entry>
+              </row>
+              <row>
+                <entry>Computer</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Television</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Lamp</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Kettle</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Stove</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Hairdryer</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4298598">Now complete the following cost assessment:</para>
+        <table id="id4298380" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>APPLIANCE</entry>
+                <entry>POWER (kW) as above</entry>
+                <entry>TIME Usage(hours)</entry>
+                <entry>Energy Usage (kW/h)</entry>
+                <entry>Cost @ R1,50 per hour</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Computer</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Television</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Lamp</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Kettle</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Stove</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Hairdryer</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id3459837">QUESTIONS</para>
+        <para id="id3187716">1. What is your deduction?</para>
+        <para id="id4635573"/>
+        <para id="id4467569"/>
+        <para id="id4467573"/>
+        <para id="id3548588">2. Are you aware of the need to use energy more economically? Give your own opinion of this.</para>
+        <para id="id10431537"/>
+        <para id="id4684073"/>
+        <para id="id4665025">3. Calculate the following:</para>
+        <para id="id4519839">a) A mountaineer whose mass is 75 kg climbs a 320 m rock face in 20 minutes. Calculate his power.</para>
+        <para id="id4460780"/>
+        <para id="id4460783"/>
+        <para id="id9772982"/>
+        <para id="id9772986">b) A large cupboard weighing 150 kg has to be carried up a stairway approximately 5 m high during a move. </para>
+        <list id="id10427698" list-type="bulleted">
+          <item>How much work is performed?</item>
+        </list>
+        <para id="id8379030"/>
+        <para id="id8379034"/>
+        <list id="id3328470" list-type="bulleted">
+          <item>What is the performance rating of the workers if two men are able to do this in 10 minutes?</item>
+        </list>
+        <para id="id3455798"/>
+        <para id="id3328250"/>
+        <para id="id3328048">Assessment of RESEARCH on appliances</para>
+        <para id="id3335527">Were you able to obtain all the required information and do the calculations?</para>
+        <para id="id3323600">Could you categorise information?</para>
+        <para id="id3339268">[LO 1.1; LO 1.2; LO 2.2; LO 2.4]</para>
+      </section>
+    </section>
+    <section id="id3342913">
+      <title>Assessment</title>
+      <para id="id3348652">LO 1: Scientific investigations: </para>
+      <para id="id3331410">The learner will be able to act confidently on curiosity about natural phenomena, and to investigate relationships and solve problems in scientific, technological and environmental contexts.</para>
+      <para id="id3348431">
+        <emphasis effect="bold">This is evident when the learner:</emphasis>
+      </para>
+      <list id="id3339291" list-type="bulleted">
+        <item>plans investigations;</item>
+        <item>conducts investigations and collects data.</item>
+      </list>
+      <para id="id3340291">
+        <emphasis effect="bold">LO 2: Constructing Science Knowledge: </emphasis>
+      </para>
+      <para id="id3336722">The learner will know and be able to interpret and apply scientific, technological and environmental knowledge.</para>
+      <para id="id3347258">
+        <emphasis effect="bold">This is evident when the learner:</emphasis>
+      </para>
+      <list id="id3350276" list-type="bulleted">
+        <item>categorises information;</item>
+        <item>interprets information;</item>
+      </list>
+      <para id="id3355641">2.4 applies knowledge.</para>
+      <para id="id3352046"/>
+    </section>
+    <section id="id3351822">
+      <title>Memorandum </title>
+      <section id="id3357914">
+        <title> POWER</title>
+        <para id="id3350076">Activity </para>
+        <para id="id3503695">Questions:</para>
+        <para id="id3503699">Power  = <emphasis effect="underline">Labour (work) </emphasis>  Time</para>
+        <para id="id3321807">Labour = Power (F) × s</para>
+        <para id="id3365222">Weight = Mass × 10 =  Kg</para>
+        <para id="id4512834"> = <emphasis effect="underline">F </emphasis><emphasis effect="underline">×</emphasis><emphasis effect="underline"> s</emphasis>  Time = </para>
+        <para id="id4633045">2. a) 1000 Watt, in other words, 1 000 × Joule/second</para>
+        <para id="id4582269">b) The amount of kW that is delivered or consumed in one hour</para>
+        <para id="id4516250">3. Larger cars approximately 100 kW; smaller cars approximately 70 kW</para>
+        <para id="id6860649">4. –</para>
+        <para id="id3363875">5. Engine has greater power / capacity for doing work</para>
+        <para id="id3369467">6. First calculate total consumption of energy (kWh):</para>
+        <para id="id3424899">= kW × h (hour)= 3 kW × 124 h= 372 Kw</para>
+        <para id="id3384731">Then calculate the costs:</para>
+        <para id="id3383534">= 372 × R0,35= R130,20 </para>
+        <para id="id3392568">Activity </para>
+        <para id="id3392572">The power per hour of appliances (more of less):</para>
+        <list id="id3393741" list-type="bulleted">
+          <item>Pocket calculator 0,0006W</item>
+          <item>Microwave oven 750W</item>
+          <item>Drill 500W</item>
+          <item>Radio 28W</item>
+          <item>Toaster 800W</item>
+          <item>Fan 100W</item>
+          <item>Iron 1 200W</item>
+          <item>Stove 1000W</item>
+          <item>Computer  250W</item>
+        </list>
+        <para id="id3392663">Questions:</para>
+        <para id="id3414613">1. The greater the power, the higher the cost of using it</para>
+        <para id="id3446543">2. Debate</para>
+        <para id="id3372682">3. a)  W = F x s= (75 x 10) x 320= 750 x 320= 240 000 J</para>
+        <para id="id3552001">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>Power</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:mstyle fontsize="11pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mtext>240</m:mtext>
+                                      <m:mi/>
+                                      <m:mtext>000</m:mtext>
+                                      <m:mi/>
+                                      <m:mi>J</m:mi>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="11pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mo stretchy="false">(</m:mo>
+                                      <m:mrow>
+                                        <m:mtext>20</m:mtext>
+                                        <m:mo stretchy="false">×</m:mo>
+                                        <m:mtext>60</m:mtext>
+                                      </m:mrow>
+                                      <m:mo stretchy="false">)</m:mo>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mfrac>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow/>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:mstyle fontsize="11pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mtext>240</m:mtext>
+                                      <m:mi/>
+                                      <m:mtext>000</m:mtext>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="11pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>1</m:mn>
+                                      <m:mi/>
+                                      <m:mtext>200</m:mtext>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mfrac>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow/>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mtext>200</m:mtext>
+                              </m:mrow>
+                              <m:mi/>
+                              <m:mi>W</m:mi>
+                              <m:mi/>
+                              <m:mo stretchy="false">(</m:mo>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>or</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mi/>
+                              <m:mn>0,2</m:mn>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>lW</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">)</m:mo>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{ ital "Power"= {  { size 11{"240"`"000"`J}}  over  { size 11{ \( "20" times "60" \) }} } }  {} # 
+ size 11{ {}= {  { size 11{"240"`"000"}}  over  { size 11{1`"200"}} } } {} # 
+ size 11{ {}="200"`W` \(  ital "or"`0,2 ital "lW" \) } {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id3391411">b) W = F x s = (150 x 10) x 5= 7 500 J</para>
+        <equation id="id3318443">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mstyle fontsize="11pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>Drywing</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mfrac>
+                                    <m:mstyle fontsize="11pt">
+                                      <m:mrow>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>Arbeid</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                    <m:mstyle fontsize="11pt">
+                                      <m:mrow>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>Tyd</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mfrac>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow/>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:mstyle fontsize="11pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>7</m:mn>
+                                      <m:mi/>
+                                      <m:mtext>500</m:mtext>
+                                      <m:mi/>
+                                      <m:mi>J</m:mi>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="11pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mtext>600</m:mtext>
+                                      <m:mi/>
+                                      <m:mi>s</m:mi>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mfrac>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="11pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow/>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mtext>12</m:mtext>
+                              </m:mrow>
+                              <m:mi>,</m:mi>
+                              <m:mn>5</m:mn>
+                              <m:mi/>
+                              <m:mi>W</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{ size 11{ ital "Drywing"= {  { size 11{ ital "Arbeid"}}  over  { size 11{ ital "Tyd"}} } }}  {} # 
+ size 11{ {}= {  { size 11{7`"500"`J}}  over  { size 11{"600"`s}} } } {} # 
+ size 11{ {}="12",5`W} {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id4488252"> One worker's performance = 12,5  2= 6,25 W</para>
+      </section>
+    </section>
+  </content>
+</document>
