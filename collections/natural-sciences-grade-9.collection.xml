@@ -1,3 +1,62 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11069</md:content-id>  <md:title>Natural Sciences Grade 9</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>5a98d181-6ad2-497d-9682-9873b09a8f8d</md:uuid>
-<md:slug>natural-sciences-grade-9</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1</md:title>                                <col:content>                    <col:module document="m20805"/>                            <col:module document="m20414"/>                            <col:module document="m20807"/>                            <col:module document="m20415"/>                            <col:module document="m20036"/>                            <col:module document="m20416"/>                            <col:module document="m20808"/>                            <col:module document="m20417"/>                            <col:module document="m20037"/>                            <col:module document="m20418"/>                            <col:module document="m20419"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m20426"/>                            <col:module document="m20420"/>                            <col:module document="m20423"/>                            <col:module document="m31840"/>                            <col:module document="m20424"/>                            <col:module document="m20425"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 3</md:title>                                <col:content>                    <col:module document="m20427"/>                            <col:module document="m20431"/>                            <col:module document="m20434"/>                            <col:module document="m31843"/>                            <col:module document="m20438"/>                            <col:module document="m20439"/>                            <col:module document="m20440"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 4</md:title>                                <col:content>                    <col:module document="m20445"/>                            <col:module document="m20450"/>                            <col:module document="m20478"/>                            <col:module document="m20451"/>                            <col:module document="m20480"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11069</md:content-id>
+    <md:title>Natural Sciences Grade 9</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>5a98d181-6ad2-497d-9682-9873b09a8f8d</md:uuid>
+    <md:slug>natural-sciences-grade-9</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1</md:title>
+      <col:content>
+        <col:module document="m20805"/>
+        <col:module document="m20414"/>
+        <col:module document="m20807"/>
+        <col:module document="m20415"/>
+        <col:module document="m20036"/>
+        <col:module document="m20416"/>
+        <col:module document="m20808"/>
+        <col:module document="m20417"/>
+        <col:module document="m20037"/>
+        <col:module document="m20418"/>
+        <col:module document="m20419"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m20426"/>
+        <col:module document="m20420"/>
+        <col:module document="m20423"/>
+        <col:module document="m31840"/>
+        <col:module document="m20424"/>
+        <col:module document="m20425"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 3</md:title>
+      <col:content>
+        <col:module document="m20427"/>
+        <col:module document="m20431"/>
+        <col:module document="m20434"/>
+        <col:module document="m31843"/>
+        <col:module document="m20438"/>
+        <col:module document="m20439"/>
+        <col:module document="m20440"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 4</md:title>
+      <col:content>
+        <col:module document="m20445"/>
+        <col:module document="m20450"/>
+        <col:module document="m20478"/>
+        <col:module document="m20451"/>
+        <col:module document="m20480"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
